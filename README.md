@@ -20,3 +20,8 @@ Fully functional website integrated with Commerce.js and Stripe.js APIs checkout
 4. Run the command - npm install node . It might take some while to install all the dependencies
 
 5. Run the command - npm start . This will start the server in your browser. Now you can access the site on your system.
+
+
+Here is sample of the landing page
+
+![Screenshot](https://github.com/abhibains/Waterloo-Market-Place/blob/b2184f63b23b6bc90565ef7f24f6461d28733082/screenshot.PNG)
