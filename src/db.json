@@ -1,0 +1,78 @@
+{
+    "id": "cart_NwRV64BZVznGbw",
+    "created": 1618250727,
+    "updated": 1618251692,
+    "expires": 1620842727,
+    "total_items": 2,
+    "total_unique_items": 2,
+    "subtotal": {
+        "raw": 320,
+        "formatted": "320.00",
+        "formatted_with_symbol": "$320.00",
+        "formatted_with_code": "320.00 USD"
+    },
+    "discount_code": [],
+    "hosted_checkout_url": "https://checkout.chec.io/cart/cart_NwRV64BZVznGbw",
+    "line_items": [
+        {
+            "id": "item_7RyWOwmK5nEa2V",
+            "product_id": "prod_DWy4oGpDP56Jx2",
+            "name": "Mouse",
+            "product_name": "Mouse",
+            "media": {
+                "type": "image",
+                "source": "https://cdn.chec.io/merchants/25840/assets/qxJFa4Sp7JPUWMxG|mouse.jpg"
+            },
+            "sku": null,
+            "permalink": "SVeHH7",
+            "quantity": 1,
+            "price": {
+                "raw": 20,
+                "formatted": "20.00",
+                "formatted_with_symbol": "$20.00",
+                "formatted_with_code": "20.00 USD"
+            },
+            "line_total": {
+                "raw": 20,
+                "formatted": "20.00",
+                "formatted_with_symbol": "$20.00",
+                "formatted_with_code": "20.00 USD"
+            },
+            "is_valid": true,
+            "selected_options": [],
+            "variant": []
+        },
+        {
+            "id": "item_1ypbroE658n4ea",
+            "product_id": "prod_4WJvlKKMJlbYV1",
+            "name": "Monitor",
+            "product_name": "Monitor",
+            "media": {
+                "type": "image",
+                "source": "https://cdn.chec.io/merchants/25840/assets/5Rmrq7KvmJmgPgyv|monitor.jpg"
+            },
+            "sku": null,
+            "permalink": "U8WUU8",
+            "quantity": 1,
+            "price": {
+                "raw": 300,
+                "formatted": "300.00",
+                "formatted_with_symbol": "$300.00",
+                "formatted_with_code": "300.00 USD"
+            },
+            "line_total": {
+                "raw": 300,
+                "formatted": "300.00",
+                "formatted_with_symbol": "$300.00",
+                "formatted_with_code": "300.00 USD"
+            },
+            "is_valid": true,
+            "selected_options": [],
+            "variant": []
+        }
+    ],
+    "currency": {
+        "code": "USD",
+        "symbol": "$"
+    }
+}
